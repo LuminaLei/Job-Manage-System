@@ -1,0 +1,6 @@
+This script count the number of lines in files.
+
+
+There are 7971 lines in file 2.txt.
+There are 1887 lines in file 3.txt.
+There are 11430 lines in file 5.txt.
